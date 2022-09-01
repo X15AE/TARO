@@ -38,6 +38,9 @@ def get_numbers_from_string(day):
 items_card_of_fate = get_numbers_from_string(date_of_birth)
 print(card_of_fate)
 
+# add any comment
+
+
 
 
 
